@@ -1,5 +1,4 @@
 import urllib3
-from bs4 import BeautifulSoup
 import json
 import sys
 
@@ -11,25 +10,16 @@ spectacle_counter = 1
 http = urllib3.PoolManager()
 
 page_1 = "liste.htm"
-response = http.request('GET',
-                        "https://www.billetreduc.com/one-man-show/R/3/{}".format(page_1))
-soup = BeautifulSoup(response.data)
-
-titles = soup.find_all("a", {"class": "head"})
-descriptions = soup.find_all("div", {"class": "libellepreliste"})
-data, spectacle_counter = f.add_infos(data, titles, descriptions, spectacle_counter)
+data, spectacle_counter = f.get_infos(page_1, http, data, spectacle_counter)
 
 
-# get other pages url
-for a in set(soup.find_all("a", {"class": "page-number-link"})):
-    page = a["href"]
-
-    response = http.request('GET',
-                            "https://www.billetreduc.com/one-man-show/R/3/{}".format(page))
-    soup = BeautifulSoup(response.data)
-    titles = soup.find_all("a", {"class": "head"})
-    descriptions = soup.find_all("div", {"class": "libellepreliste"})
-    data, spectacle_counter = f.add_infos(data, titles, descriptions, spectacle_counter)
+soup = f.parsing_html_page("https://www.billetreduc.com/one-man-show/R/3/{}".format(page_1),
+                           http)
+# # get other pages tags
+other_pages_tags = set(soup.find_all("a", {"class": "page-number-link"}))
+for a in other_pages_tags:
+    page_url = a["href"]
+    data, spectacle_counter = f.get_infos(page_url, http, data, spectacle_counter)
     print(len(data), spectacle_counter - 1)
 
 # Saving json

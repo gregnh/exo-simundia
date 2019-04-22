@@ -1,3 +1,6 @@
+from bs4 import BeautifulSoup
+
+
 def add_infos(data_dict, titles, descriptions, spectacle_counter):
     """
     Adding title and description of spectacles in dictionary
@@ -16,4 +19,21 @@ def add_infos(data_dict, titles, descriptions, spectacle_counter):
             key = "spectacle_{}".format(spectacle_counter)
             data_dict[key] = {"title": info[0].text, "description": info[1].text.strip()}
             spectacle_counter += 1
+    return data_dict, spectacle_counter
+
+
+def parsing_html_page(url, requester):
+    """Parse html page into BeautifulSoup object"""
+    response = requester.request('GET', url)
+    soup = BeautifulSoup(response.data)
+    return soup
+
+
+def get_infos(page, requester, data_dict, spectacle_counter):
+    soup = parsing_html_page("https://www.billetreduc.com/one-man-show/R/3/{}".format(page),
+                             requester)
+
+    titles = soup.find_all("a", {"class": "head"})
+    descriptions = soup.find_all("div", {"class": "libellepreliste"})
+    data_dict, spectacle_counter = add_infos(data_dict, titles, descriptions, spectacle_counter)
     return data_dict, spectacle_counter
