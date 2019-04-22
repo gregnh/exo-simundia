@@ -5,6 +5,7 @@ Ce repo contient le script de scrapping ainsi que mes propositions de qualificat
 J'ai décidé de le faire en python avec BeautifulSoup car c'est ce que je maitrise le mieux.  
 Comme ca fait quelques temps que je n'ai pas scrappé, il m'a fallu une dizaine de minutes pour reprendre la documentation de BeautifulSoup.  
 
+
 ## Lead generation
 
 Pour cette partie, je me suis tout de même fait une version alpha d'un persona RH. J'ai besoin d'avoir un aperçu de ma cible pour avoir une intuition de son comportement sur internet.  
@@ -26,5 +27,7 @@ Too Long;Didnit Watch: J'avais plusieurs stratégies en tête. Il fallait que j'
 - Tunnel email + webinaire (un peu plus de détail dans la video)
 (Egalement, je l'ai pas dit dans la video, mais rajouter une séquence Seinfield pour les RH n'ayant pas souscrit au webinaire)
 
-Video explicative : 
+On aurait également pu passer par du blogging, du compte Instagram, des groupes fb, etc...
+
+Video explicative sur Youtube (unlisted): https://bit.ly/2GqRdSZ 
 
