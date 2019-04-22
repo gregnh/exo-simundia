@@ -1,0 +1,242 @@
+{
+    "spectacle_1": {
+        "title": " How to become a parisian in one hour ? par Olivier Giraud ",
+        "description": "Devenez un vrai parisien dans les magasins, restaurants, taxis, métro etc... Au terme de cette formation ludique et interactive, le \"Parisien\" n'aura plus aucun secret pour vous !"
+    },
+    "spectacle_2": {
+        "title": " Le sexe pour les nuls par Brice Larrieu ",
+        "description": "Tout ce que vous avez toujours voulu savoir sur le sexe sans jamais avoir osé le demander."
+    },
+    "spectacle_3": {
+        "title": " Jean-Pierre Meurant dans Mode d'Emploi ",
+        "description": "Pour Jean-Pierre, la retraite a sonné. Mais quel parcours pour y arriver !"
+    },
+    "spectacle_4": {
+        "title": " Thierry Hériteau dans La Petite Boucherie du Bonheur ",
+        "description": "Se nourrir du rire c'est digérer le pire. N'est ce pas notre destinée ?"
+    },
+    "spectacle_5": {
+        "title": " Seb Mellia dans Seb Mellia ne perd jamais ",
+        "description": "Avec son sourire de sale gosse, Seb Mellia livre un stand up authentique, entre impros maîtrisées et anecdotes personnelles hilarantes."
+    },
+    "spectacle_6": {
+        "title": " Florian Lex dans Pas de pitié ",
+        "description": "Florian Lex n'épargne personne..."
+    },
+    "spectacle_7": {
+        "title": " Zazack dans Ça y est, c'est décidé, je me lance dans la chanson ! ",
+        "description": "Les tribulations de Zazack, investi d'une mission : envahir le Monde entier de sa voix mélodieuse."
+    },
+    "spectacle_8": {
+        "title": " Stéphane Pezerat dans Stéphane Pezerat c'est mon nom à moi ",
+        "description": "Stéphane vous parlera de ses années à la SNCF, son Carrefour Voyage raté au Pérou, de méditation de pleine conscience entre autres !"
+    },
+    "spectacle_9": {
+        "title": " JeanFi Janssens dans JeanFi décolle ",
+        "description": "Le parcours d'un steward qui monte, qui monte !"
+    },
+    "spectacle_10": {
+        "title": " Fabien Guilbaud dans Faux et fort ",
+        "description": "De la chanson, des sketchs, du désordre..."
+    },
+    "spectacle_11": {
+        "title": " Nasser dans Ecce homo ",
+        "description": "Ce spectacle est une incursion dans le monde du sketch et de la punch line, dans le rire à tout prix"
+    },
+    "spectacle_12": {
+        "title": " Jys le marseillais dans Un monde de fou ",
+        "description": "Bienvenue dans un monde de fou avec Jys le marseillais."
+    },
+    "spectacle_13": {
+        "title": " Régis Mailhot dans Citoyen (en) marche ou grève ",
+        "description": "Après avoir fait le tour de France avec son spectacle citoyen. Régis Mailhot a choisi le Théâtre des Deux ânes pour faire sa rentrée politique."
+    },
+    "spectacle_14": {
+        "title": " Tony Saint Laurent dans Inclassable ",
+        "description": "Foncez-voir Tony Saint Laurent, le spectacle qui garantit une vanne toutes les 10 secondes."
+    },
+    "spectacle_15": {
+        "title": " Sevac dans Sevac en finition ",
+        "description": "Percutant, drôle et efficace, Sevac vous présente son nouveau spectacle, c'est le lieu où il faut être pour le voir réaliser son rêve : Devenir une star."
+    },
+    "spectacle_16": {
+        "title": " Felix Le Braz dans Un breton à Lyon ",
+        "description": "Partis de sa Bretagne natale Félix fait le tour de France. Il commence par la capitale des Gaules : Lyon !"
+    },
+    "spectacle_17": {
+        "title": " Mr Nouar dans How to be a gentleman ",
+        "description": "4 milliards d'hommes sur Terre. Mais combien de gentlemen ? Existe-t-il encore des gentlemen ? Et surtout comment devenir un gentleman ?"
+    },
+    "spectacle_18": {
+        "title": " Jim dans Dernière tournée ",
+        "description": "Jim a 27 ans, fils d'une mère chrétienne et d'un père qui s'en branle, il a grandi dans la tradition Cathodique (8h de télé par jour)."
+    },
+    "spectacle_19": {
+        "title": " Mohamed le Suédois dans Famille de Ouf ",
+        "description": "Dans son nouveau spectacle, Mohamed le suédois débarque avec la famille !"
+    },
+    "spectacle_20": {
+        "title": " Maxime Sendré dans Intoussable ",
+        "description": "Avec un humour et une légèreté féroce, Maxime vous explique comment se passe le quotidien d'un adulte atteint de mucoviscidose (la muco pour les intimes)."
+    },
+    "spectacle_21": {
+        "title": " Kenny Martineau dans Je suis une princesse et je vous emmerde ",
+        "description": "\"Un spectacle hommage aux femmes ! (et aux hommes qui les supportent...)"
+    },
+    "spectacle_22": {
+        "title": " Arno Maxx dans 100 % Original ",
+        "description": "Barnabé a toujours rêvé de faire du spectacle."
+    },
+    "spectacle_23": {
+        "title": " Timothé Poissonnet dans Le bocal ",
+        "description": "Un humoriste comme les autres, très différent."
+    },
+    "spectacle_24": {
+        "title": " Jamel Debbouze dans Maintenant ou Jamel ",
+        "description": "Après 6 ans d'absence, Jamel est de retour sur scène , son terrain de jeu favori."
+    },
+    "spectacle_25": {
+        "title": " Cartman dans One ",
+        "description": "Sa mission : vous prouver en un peu plus d'une heure qu'on peut être petit, chauve et heureux."
+    },
+    "spectacle_26": {
+        "title": " Akim Omiri ",
+        "description": "Le nouveau spectacle d'Akim Omiri est le fruit de la mise en scène expérimentée de Kader Aoun et de son écriture autobiographique."
+    },
+    "spectacle_27": {
+        "title": " Maliko Bonito dans En confiance ",
+        "description": "Imaginez un monde où chaque individu est \"en confiance\"."
+    },
+    "spectacle_28": {
+        "title": " Clément Kersual dans Clément K ne croit en rien ",
+        "description": "C'est parce qu'il ne croit en rien que Clément K aime rire de tout."
+    },
+    "spectacle_29": {
+        "title": " Alexandre Pesle dans Conseil à des jeunes qui veulent rire de tout ",
+        "description": "Alexandre revient sur la question que tout le monde se pose : \" Peut-on rire de tout ? \""
+    },
+    "spectacle_30": {
+        "title": " Patson dans Dr Patson rirothérapeute ",
+        "description": "Docteur Patson contre la morosité!"
+    },
+    "spectacle_31": {
+        "title": " Jean-Claude Muaka dans One man costaud ",
+        "description": "Attention, Humour Musclé !"
+    },
+    "spectacle_32": {
+        "title": " Sofiane dans Rire entretient la jeunesse de votre corps ",
+        "description": "Parce que rire entretient la jeunesse de votre corps, Sofiane est votre meilleur allié contre la grisaille du quotidien."
+    },
+    "spectacle_33": {
+        "title": " Kevin et Tom ",
+        "description": "Titre Kevin & Tom avec... Kevin Levy et Tom Leeb Texte de... Kevin Levy et Tom Leeb"
+    },
+    "spectacle_34": {
+        "title": " Sugar Sammy ",
+        "description": "Maître de l'improvisation, il crée un spectacle unique chaque soir. Vous tomberez forcément sous le charme de ce provocateur charismatique."
+    },
+    "spectacle_35": {
+        "title": " Jovany & Le dernier saltimbanque ",
+        "description": "70 minutes de folie qui dévoilent le vrai visage d'un artiste attachant, sensible et déséquilibré."
+    },
+    "spectacle_36": {
+        "title": " Karim Duval dans Y ",
+        "description": "Vous avez dit Génération Y...?"
+    },
+    "spectacle_37": {
+        "title": " Malek ",
+        "description": "Malek est un quarantenaire de douze ans,c'est en voulant monter à Paris un matin qu'il s'aperçut qu'il y habitait déjà..."
+    },
+    "spectacle_38": {
+        "title": " Waly Dia dans Ensemble ou rien ",
+        "description": "Waly Dia est de retour, avec un style brûlant et aiguisé, pour faire face aux grands défis de notre époque."
+    },
+    "spectacle_39": {
+        "title": " David Azencot dans Inflammable ",
+        "description": "David Azencot est comme le café turc, sans filtre. Un spectacle optimiste dans la limite des stocks disponibles."
+    },
+    "spectacle_40": {
+        "title": " Marc-Antoine Le Bret : Nouveau spectacle ",
+        "description": "Dans ce show inédit qui évolue chaque jour, Marc-Antoine le Bret livre une grande performance à travers les imitations qui l'ont fait connaître."
+    },
+    "spectacle_41": {
+        "title": " Bernard Mabille dans Fini de jouer ! ",
+        "description": "Trèfle de plaisanterie ! Bernard Mabille garde la main sur la politique et vous sort le grand jeu pour son nouveau spectacle \"Fini de Jouer !\"."
+    },
+    "spectacle_42": {
+        "title": " Trempoint spécial Tandem ",
+        "description": "Soirée spécial tandem avec Felix et Tristan Lucas"
+    },
+    "spectacle_43": {
+        "title": " Alfred Dumont dans J'veux pas grandir ",
+        "description": "Un One Man Show plus efficace qu'un lifting !"
+    },
+    "spectacle_44": {
+        "title": " Chassés croissés ",
+        "description": "Un seul en scène théâtral humoristique au temps des Croisades..."
+    },
+    "spectacle_45": {
+        "title": " Arnaud Maillard dans Seul dans sa tête...ou presque ",
+        "description": "Arnaud Maillard nous livre une performance sur scène dans son One Man Show : il a décidé de casser tous les codes du genre."
+    },
+    "spectacle_46": {
+        "title": " Louis XVI dans Ils me prennent la tête ",
+        "description": "One king show ! qui va révolutionner votre vision de l'Histoire de France !"
+    },
+    "spectacle_47": {
+        "title": " Pablo Mira dans Pablo Mira dit des choses contre de l'argent ",
+        "description": "Pablo Mira est sur scène. C'est déjà bien. Et en plus il dit ce qu'il pense, ça c'est un peu moins bien."
+    },
+    "spectacle_48": {
+        "title": " José Cruz dans En construction Version portugaise ",
+        "description": "\"En Construction\", le premier one-chantier-show. Parce que plus les années passent, plus c'est le chantier !"
+    },
+    "spectacle_49": {
+        "title": " Rabier dans Au dessous de la ceinture ",
+        "description": "Une heure et des brouettes d'humour décapant, de chansons courtes, de dérision, d'histoires Gauloises et de jeux de mots..."
+    },
+    "spectacle_50": {
+        "title": " Gil Alma dans 200% Naturel ",
+        "description": "Dans le cadre du Printemps du Rire : Gil Alma 200% Naturel"
+    },
+    "spectacle_51": {
+        "title": " Fabrice Eboué dans Plus rien à perdre ",
+        "description": "Plus rien à perdre... Fabrice Eboué se lâche comme jamais dans ce nouveau spectacle."
+    },
+    "spectacle_52": {
+        "title": " JeanFi Janssens dans JeanFi décolle ",
+        "description": "Le parcours d'un steward qui monte, qui monte !"
+    },
+    "spectacle_53": {
+        "title": " Noom Diawara dans Mon ex avait raison ",
+        "description": "Plaqué par sa copine et contraint de retourner vivre chez Papa/Maman ce trentenaire va vous raconter ses tribulations et essayer de retrouver l'amour"
+    },
+    "spectacle_54": {
+        "title": " RJ dans Hypnosia ",
+        "description": "Quand l'inconscient laisse place à l'inconscient."
+    },
+    "spectacle_55": {
+        "title": " Clément Dubéarn dans Clément part en saison ",
+        "description": "L'histoire d'un ancien GO Club Med, alcoolique, drogué et obsédé sexuel."
+    },
+    "spectacle_56": {
+        "title": " Manox dans Client Suivant ",
+        "description": "Vous connaissez Manox ? Non ? Mais lui il vous connait ! Un Onemanox Show sur scène après 10 ans derrière un micro, Manox se montre."
+    },
+    "spectacle_57": {
+        "title": " Fabrice Lamour dans Lamour : mode d'emploi ",
+        "description": "Fabrice Lamour, avec un nom pareil est un expert en la matière ... ou presque... Vivre en couple ? pourquoi ?"
+    },
+    "spectacle_58": {
+        "title": " Ahmed Sylla dans Différent ",
+        "description": "Ahmed Sylla examine le thème des différences, s'attachant à mettre en évidence les raisons pour lesquelles elles nous rassemblent."
+    },
+    "spectacle_59": {
+        "title": " Sugar Sammy ",
+        "description": "Sugar Sammy présente son écrit spécialement pour la France dans la plus pure tradition du stand-up américain : un micro, pas de censure !"
+    },
+    "spectacle_60": {
+        "title": " Alex Ramires dans Sensiblement viril ",
+        "description": "Itinéraire d'un comédien gâté.Tout commence quand Alex Ramirès naquit .Parce qu'avant, mine de rien, c'était compliqué de faire quoi que ce soit"
+    }
+}
