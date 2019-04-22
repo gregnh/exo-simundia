@@ -27,7 +27,7 @@ Too Long;Didnit Watch: J'avais plusieurs stratégies en tête. Il fallait que j'
 - Tunnel email + webinaire (un peu plus de détail dans la video)
 (Egalement, je l'ai pas dit dans la video, mais rajouter une séquence Seinfield pour les RH n'ayant pas souscrit au webinaire)
 
-On aurait également pu passer par du blogging, du compte Instagram, des groupes fb, etc...
+On aurait également pu passer par du blogging, de la newsletter, du compte Instagram, des groupes fb, etc...
 
 Video explicative sur Youtube (unlisted): https://bit.ly/2GqRdSZ 
 
